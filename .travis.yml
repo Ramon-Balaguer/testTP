@@ -1,0 +1,2 @@
+language: csharp
+solution: TestWinforms\TestWinforms.sln
