@@ -1,0 +1,8 @@
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\bin\Debug\TestWinforms.exe.config
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\bin\Debug\TestWinforms.exe
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\bin\Debug\TestWinforms.pdb
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\obj\Debug\TestWinforms.csprojResolveAssemblyReference.cache
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\obj\Debug\TestWinforms.Properties.Resources.resources
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\obj\Debug\TestWinforms.csproj.GenerateResource.Cache
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\obj\Debug\TestWinforms.exe
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\obj\Debug\TestWinforms.pdb
