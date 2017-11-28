@@ -1,2 +1,2 @@
 language: csharp
-solution: TestWinforms\TestWinforms.sln
+solution: TestWinforms/TestWinforms.sln
