@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,11 @@ namespace TestWinforms
         public Form1()
         {
             InitializeComponent();
+            Product product = new Product();
+
+            product.Name = "Apple";
+
+            string output = JsonConvert.SerializeObject(product);
         }
     }
 }

@@ -6,3 +6,5 @@ D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\obj\Debug\T
 D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\obj\Debug\TestWinforms.csproj.GenerateResource.Cache
 D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\obj\Debug\TestWinforms.exe
 D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\obj\Debug\TestWinforms.pdb
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\bin\Debug\Newtonsoft.Json.dll
+D:\Users\rbalaguer\Documents\GitHub\testTP\TestWinforms\TestWinforms\bin\Debug\Newtonsoft.Json.xml
